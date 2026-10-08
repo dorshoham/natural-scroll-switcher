@@ -7,7 +7,7 @@ No app to install, nothing to compile — just a small Python script that runs i
 ## Install
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/natural-scroll-switcher.git
+git clone https://github.com/dorshoham/natural-scroll-switcher.git
 cd natural-scroll-switcher
 bash install.sh
 ```
